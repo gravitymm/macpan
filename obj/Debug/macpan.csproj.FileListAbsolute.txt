@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\macpan\macpan\bin\Debug\macpan.exe.config
+C:\Users\user\source\repos\macpan\macpan\bin\Debug\macpan.exe
+C:\Users\user\source\repos\macpan\macpan\bin\Debug\macpan.pdb
+C:\Users\user\source\repos\macpan\macpan\obj\Debug\macpan.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\macpan\macpan\obj\Debug\macpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\macpan\macpan\obj\Debug\macpan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\macpan\macpan\obj\Debug\macpan.exe
+C:\Users\user\source\repos\macpan\macpan\obj\Debug\macpan.pdb
